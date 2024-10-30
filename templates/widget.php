@@ -1,0 +1,1 @@
+<h1><?php _e('Widgets Manager', 'last-tap-events'); ?></h1>
